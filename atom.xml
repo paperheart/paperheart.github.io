@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-18T15:37:38.337Z</updated>
+  <updated>2019-09-18T15:47:59.324Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>云计算的基本概念</title>
+    <link href="http://yoursite.com/2019/09/18/%E4%BA%91%E8%AE%A1%E7%AE%97%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8_%E6%A6%82%E8%AE%BA/"/>
+    <id>http://yoursite.com/2019/09/18/云计算及其应用_概论/</id>
+    <published>2019-09-18T15:46:50.877Z</published>
+    <updated>2019-09-18T15:47:59.324Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;笔记：ヾ暖色调 「说好不哭」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;1-云计算之的是it资源的交付和使用模式-通过网络以按需-易扩展的方式获取所需要的资源-软件-平台-硬件-提供资源的网络被称为云-云-的资源在使用者看来可以是无限拓展的&quot;&gt;1. 云计算之的是IT资源的交付和使用模式，通过网络以按需、易扩展的方式获取所需要的资源（软件、平台、硬件），提供资源的网络被称为云，“云”的资源在使用者看来可以是无限拓展的。&lt;/h4&gt;
+&lt;h4 id=&quot;2-云计算特点：&quot;&gt;2. 云计算特点：&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;资源池弹性可扩张
+重要特征：资源的集中管理和输出
+分散的资源：使用方法造成了资源的极大浪费
+资源集中：利用效率大大提高，资源池的弹性化扩张能力成为云计算系统的一个基本要求。&lt;/li&gt;
+&lt;li&gt;按需提供资源服务
+好处：冥界的适应用户对资源不断变化的需求
+//TODO&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+      <category term="云计算及其应用" scheme="http://yoursite.com/categories/%E4%BA%91%E8%AE%A1%E7%AE%97%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>前言概述及操作系统概论</title>
