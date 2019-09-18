@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-18T14:55:53.814Z</updated>
+  <updated>2019-09-18T15:33:22.964Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,9 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/09/18/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97_%E6%A6%82%E8%AE%BA/"/>
+    <id>http://yoursite.com/2019/09/18/操作系统与分布式计算_概论/</id>
+    <published>2019-09-18T15:33:22.964Z</published>
+    <updated>2019-09-18T15:33:22.964Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1&gt;前言概述及操作系统概论&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;北京理工大学&lt;br&gt;
+马锐&lt;br&gt;
+&lt;a href=&quot;mailto:mary@bit.edu.cn&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mary@bit.edu.cn&lt;/a&gt;&lt;b
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>计算机网络与工程概论</title>
-    <link href="http://yoursite.com/2019/09/18/%E6%A6%82%E8%AE%BA/"/>
-    <id>http://yoursite.com/2019/09/18/概论/</id>
+    <link href="http://yoursite.com/2019/09/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%B7%A5%E7%A8%8B_%E6%A6%82%E8%AE%BA/"/>
+    <id>http://yoursite.com/2019/09/18/计算机网络与工程_概论/</id>
     <published>2019-09-18T13:52:45.733Z</published>
     <updated>2019-09-18T14:55:53.814Z</updated>
     
@@ -46,29 +70,6 @@
     
     
       <category term="计算机网络与工程" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%B7%A5%E7%A8%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/09/18/hello-world/"/>
-    <id>http://yoursite.com/2019/09/18/hello-world/</id>
-    <published>2019-09-18T02:39:32.777Z</published>
-    <updated>2019-09-18T14:14:34.233Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;quick-start&quot;&gt;Quick Start&lt;/h2&gt;
-&lt;h3 id=&quot;create-a-new-post&quot;&gt;Create a new post&lt;/h3&gt;
-&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;run-server&quot;&gt;Run server&lt;/h3&gt;
-&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
     
     
   </entry>
