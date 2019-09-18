@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-18T15:33:22.964Z</updated>
+  <updated>2019-09-18T15:36:28.984Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,18 +21,32 @@
     <link href="http://yoursite.com/2019/09/18/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97_%E6%A6%82%E8%AE%BA/"/>
     <id>http://yoursite.com/2019/09/18/操作系统与分布式计算_概论/</id>
     <published>2019-09-18T15:33:22.964Z</published>
-    <updated>2019-09-18T15:33:22.964Z</updated>
+    <updated>2019-09-18T15:36:28.984Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;h1&gt;前言概述及操作系统概论&lt;/h1&gt;
+      &lt;h1&gt;前言概述及操作系统概论&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;北京理工大学&lt;br&gt;
 马锐&lt;br&gt;
-&lt;a href=&quot;mailto:mary@bit.edu.cn&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mary@bit.edu.cn&lt;/a&gt;&lt;b
-      
+&lt;a href=&quot;mailto:mary@bit.edu.cn&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mary@bit.edu.cn&lt;/a&gt;&lt;br&gt;
+办公地点：软件楼405;实验室：软件楼420&lt;br&gt;
+学时：56&lt;br&gt;
+上课地点：1-102 图书馆四楼1号机房&lt;br&gt;
+选课密码：ma2017&lt;br&gt;
+期末70% + 平时30%  期末考试闭卷（笔试）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;笔记：ヾ暖色调「今日的风儿甚是喧嚣」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;1-教学安排&quot;&gt;1. 教学安排&lt;/h2&gt;
+&lt;h2 id=&quot;2-教材及其参考书&quot;&gt;2. 教材及其参考书&lt;/h2&gt;
+&lt;h2 id=&quot;3-考核方式&quot;&gt;3. 考核方式&lt;/h2&gt;
+&lt;h2 id=&quot;4-内容简介-后面看看就好了&quot;&gt;4. 内容简介（后面看看就好了）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;操作系统概述：重点了解操作系统概念特征功能和提供的服务，其分类和展以及环境&lt;/li&gt;
+&lt;li&gt;进程管理：处理机管理，掌握进程和线程的概念，典型处理机调度算法，号量的概念等&lt;/li&gt;
+&lt;/ol&gt;
     
     </summary>
     
