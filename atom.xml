@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-02T11:29:21.000Z</updated>
+  <updated>2019-10-03T02:57:14.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,10 +17,66 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>数据模型</title>
+    <link href="http://yoursite.com/2019/10/03/%E6%95%B0%E6%8D%AE%E6%A8%A1%E5%9E%8B/"/>
+    <id>http://yoursite.com/2019/10/03/数据模型/</id>
+    <published>2019-10-03T02:57:34.299Z</published>
+    <updated>2019-10-03T02:57:14.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!--
+ * @LastEditTime: 2019-10-03 10:56:38
+ * @LastEditors: Please set LastEditors
+ * @Date: 2019-10-02 19:38:13
+ * @LastEditTime: 2019-10-03 10:51:55
+ * @LastEditors: 俞振杰
+ --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;笔记：ヾ暖色调 「我曾一心向往天上的明月 怕今宵是庄生的蝴蝶」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;e-r概念模型&quot;&gt;E-R概念模型&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;信息
+&lt;ul&gt;
+&lt;li&gt;客观世界中存在的事物在人们头脑中的反映&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;概念模型
+&lt;ul&gt;
+&lt;li&gt;现实世界到信息世界的抽象表示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;实体-联系模型(Entity-Relationship data model, E-R模型)
+&lt;ul&gt;
+&lt;li&gt;最常用的概念模型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;实体
+&lt;ul&gt;
+&lt;li&gt;现实世界存在的个体，具有同类特征的个体组成的集合叫做实体集&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;属性
+&lt;ul&gt;
+&lt;li&gt;实体具有的若干特性，称为属性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="数据库设计与开发" scheme="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BC%80%E5%8F%91/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>数据库系统引论</title>
     <link href="http://yoursite.com/2019/10/02/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%BC%95%E8%AE%BA/"/>
     <id>http://yoursite.com/2019/10/02/数据库系统引论/</id>
-    <published>2019-10-02T11:29:39.715Z</published>
+    <published>2019-10-02T11:45:15.160Z</published>
     <updated>2019-10-02T11:29:21.000Z</updated>
     
     <summary type="html">
